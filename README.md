@@ -1,4 +1,4 @@
-# TFWS : Tweaks For Weak Systems
+# TFWS : Tweaks For Weak Systems - Written in C#
  TFWS aims to speed up Windows operating systems on weak systems.
 
  <p>This program consists of scripts that can help speed up your system. It can also tell you what each of these scripts does and how running them helps to speed up your system.</p>
