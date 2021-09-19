@@ -12,7 +12,7 @@ I decided to implement the instructions for speeding up Windows 10 in one progra
 
 <p>Features :
   <br/>	
-  - Add Disable or Enable Windows Update (Added in v1.1.0)
+  - <strike>Add Disable or Enable Windows Update</strike> (Removed in v1.2.0)
    <br/>
   - Add Disable or Enable Windows Search Index Service (Added in v1.1.0)
    <br/>
@@ -25,6 +25,6 @@ I decided to implement the instructions for speeding up Windows 10 in one progra
 
 <p><b>TFWS & TFWS Source Code Latest Version : </b><a href="https://github.com/s19mee/TFWS/releases">Download</a></p>
 
-![TFWS v1 1 0 Screenshot](https://user-images.githubusercontent.com/79229394/131217634-2bc95dfc-d6e2-4674-b98a-21c4291c2ba2.png)
+![TFWS-1 2 0 0](https://user-images.githubusercontent.com/79229394/133928418-3a4c1180-dfb8-4476-aff0-31f1f409fe23.jpg)
 <br/>
-TFWS v1.1.0 Screenshot
+TFWS v1.2.0 Screenshot
